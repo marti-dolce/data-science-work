@@ -29,7 +29,7 @@ This is what my Jupyter Notebook Intro looks like in PyCharm:
 
 
 
-###References
+### References
 ***
 [1]. (https://flatironschool.com/blog/how-to-set-up-your-professional-data-science-environment)
 

@@ -12,7 +12,9 @@ PATH: /Users/mj163/opt/anaconda3/envs/"Environment Name"
 
 This absolutely maps to the Anaconda Console
 
-Anaconda Console Image: ![Anaconda Console Path](http://dev.martidolce.com/wp-content/uploads/2020/11/2020-11-04_03-48-34.png)
+**Anaconda Console Image:** 
+
+![Anaconda Console Path](http://dev.martidolce.com/wp-content/uploads/2020/11/2020-11-04_03-48-34.png)
 
 ## Porting In The Packages
 After syncing up the directories with Anaconda and PyCharm,  PyCharm evaluates the code and attempts to determine the packages you need.
